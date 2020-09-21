@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PingWorld
+comment0.text=\r\n\ The\ Ping\ World\ is\ where\ Balls\ and\ Paddles\ meet\ to\ play\ pong.\r\n\ \r\n\ @author\ The\ teachers\ \r\n\ @version\ 1\r\n
+comment1.params=gameStarted\ multiplayer
+comment1.target=PingWorld(boolean,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PingWorld.\r\n
+comment10.params=
+comment10.target=Ball\ getBall()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=text
+comment3.target=void\ showTextTop(java.lang.String)
+comment4.params=
+comment4.target=void\ removeTextImageTop()
+comment5.params=score
+comment5.target=void\ addScore(int)
+comment6.params=level
+comment6.target=void\ setLevel(int)
+comment7.params=level
+comment7.target=void\ addLevel(int)
+comment8.params=
+comment8.target=void\ checkGameOver()
+comment9.params=enemyScore
+comment9.target=void\ addEnemyScore(int)
+numComments=11
